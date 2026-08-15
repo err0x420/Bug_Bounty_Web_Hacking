@@ -1,0 +1,5 @@
+https://github.com/Esther7171/Bypass-forbidden
+
+https://github.com/OWASP/AppSec-Browser-Bundle/blob/master/utilities/wfuzz/wordlist/fuzzdb/attack-payloads/http-protocol/http-protocol-methods.txt
+
+https://gist.githubusercontent.com/Spix0r/85edd0ad5a23f0e011a24654a732ae44/raw/6df2ffb2ea632bec7b62c53d1c66d2ca6649bc3e/403-Bypass-Headers-List.txt
